@@ -1,0 +1,8 @@
+int x = 5;
+int y = 10;
+int z = x + y;
+if (z > 10) {
+    print(z);
+} else {
+    print(x);
+}
